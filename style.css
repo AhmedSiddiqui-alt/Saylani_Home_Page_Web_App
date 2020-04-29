@@ -1,0 +1,762 @@
+font{
+    font-family: sans-serif;
+}
+.head1{
+    background-color: rgb(40, 120, 185);
+    height:50px;
+    padding-left: 200px;
+    min-width: 20%;
+}
+.images{
+    padding-left: 10px;
+    padding-bottom: 3px;
+    
+}
+#imagewhatsapp{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#imageinstagram
+{
+    padding-left: 10px;
+    padding-bottom: 5px;
+
+}
+#imageyoutube{
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+#font1{
+    position: relative;
+    color: white;
+    
+    bottom: 8px;
+    margin-left: 50px;
+    
+}
+.list1{
+    position:relative;
+    margin-left: 800px;
+    bottom: 43px;
+    display: inline;
+    background-color:white;
+    height: 20px;
+    padding: 5px;
+    
+}
+ .list2{
+    position: relative;
+    margin-left: 870px;
+    bottom: 61px;
+    display: inline;
+    background-color:white;
+    height: 20px;
+    padding: 5px;
+}
+.list3{
+    position: relative;
+    margin-left: 945px;
+    bottom: 79px;
+    display: inline;
+    background-color:white;
+    
+    height: 20px;
+    padding: 5px; 
+}
+.anchor1{
+    text-decoration: none;
+    color: grey;
+    font-size: 10px;
+}
+.head2{
+    margin-top: 5px;
+    background-color:white;
+    height: 80px;
+}
+#imagesaylani{
+    padding-top: 5px;
+    margin-left: 240px;
+}
+.homebutton
+{
+    position: relative;
+    margin-left: 340px;
+    bottom: 20px;
+    background-color: rgb(40, 120, 185);
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius:  18px;
+    cursor: pointer;    
+}
+.anchor2
+{
+    text-decoration: none;
+    color: white;
+}
+option{
+    background-color: white;
+    color:black
+}
+.about:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+    
+    color: white;
+    
+}
+
+.about{
+    position: relative;
+    bottom: 23px;
+    border: none;
+    color: black;
+    text-align: center;
+    margin-left:10px;
+}
+.saylaniservices:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+   
+    color: white;
+}
+.saylaniservices{
+    position: relative;
+    bottom: 23px;
+    border: none;
+    color: black;
+    text-align: center;
+    margin-left:10px;
+    width: 150px;
+    
+}
+.futureprojects:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+   
+    color: white;
+}
+.futureprojects{
+    position: relative;
+    bottom: 23px;
+    border: none;
+    color: black;
+    text-align: center;
+    margin-left:10px;
+    width: 150px;
+}
+.mediabutton:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+   
+}
+.mediabutton{
+    position: relative;
+    margin-left: 10px;
+    bottom: 20px;
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;    
+    background-color: white;
+    border: none;
+    
+    
+}
+#mediafont{
+    color: black;
+}
+.newsbutton:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+   
+}
+.newsbutton{
+    position: relative;
+    margin-left: 10px;
+    bottom: 20px;
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;    
+    background-color: white;
+    border: none;
+    
+    
+}
+#newsfont{
+    color: black;
+}
+.donation:hover{
+    border:none;
+    border-radius:18px;
+    padding: 10px;
+    background-color: rgb(40, 120, 185);
+   
+    color: white;
+}
+.donation{
+    position: relative;
+    bottom: 21px;
+    border: none;
+    color: black;
+    text-align: center;
+    margin-left:10px;
+    width: 100px;
+}
+.helpimg1{
+    width: 100%;
+    height: 500px;
+    
+}
+.body2{
+    background-color: rgb(40, 120, 185);
+    width:1100px;
+    height:25px;
+    font-size: 5;
+}
+.newsfont1{
+   color: rgb(50, 255, 67);
+}
+.infofont1{
+color: white;
+}
+.detailfon1{
+color:blue
+}
+.marquee1{
+    height: 40px;
+    width:1100px;
+}
+.body3{
+    margin-top: 60px;
+}
+.blueintrofont{
+    color: rgb(40, 120, 185);
+    font-size: 30px;
+    
+    
+}
+.greenintrofont{
+    color: rgb(36, 187, 81);
+    font-size: 30px;
+    
+}
+.body5{
+    
+    margin:0 auto ;
+    width: 970px;
+    height: 300px;
+    color: rgb(37, 37, 39);
+   
+}
+.body6{
+    margin-top: 50px;
+background-color: rgb(58, 92, 187);
+height: 270px;
+}
+#part1img{
+    margin-left:270px;
+    margin-top: 60px;
+}
+#part1font{
+    display:inline-block;
+    color: white;
+    font-size: 40px;
+    margin-left:230px;
+}
+#part2font{
+    display:inline-block;
+    color: white;
+    font-size: 40px;
+    margin-left:215px;
+} 
+#part3font{
+    display:inline-block;
+    color: white;
+    font-size: 40px;
+    margin-left:215px;
+}
+#part4font{
+    display:inline-block;
+    color: white;
+    font-size: 40px;
+    margin-left:201px;
+}
+#whitedailyfont{
+display: inline-block;
+margin-top: 10px;
+color: white;
+font-size: 20px;
+margin-left:105px;
+}
+#whiteadoptionfont{
+    display: inline-block;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    margin-left:70px;   
+}
+#whitemedicalfont{
+    display: inline-block;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left:70px;  
+}
+#whiteeducationfont{
+    display: inline-block;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left:80px;  
+}
+.greenmonthlyfont{
+    
+    color: rgb(36, 187, 81);
+    font-size: 20px;
+}
+#part2img{
+
+    margin-left:270px;
+    margin-top: 60px;
+}
+#part3img{
+
+    margin-left:270px;
+    margin-top: 60px;
+}
+#part4img{
+
+    margin-left:270px;
+    margin-top: 60px;
+}
+.mainbodypart1{
+    display: flex;
+}
+.mainbodypart2{
+    margin-top: 40px;
+    display: flex;
+}
+ .body9{
+    background-color:ghostwhite;
+     width: 350px;
+     height: 200px;
+     
+     
+     margin-left: 190px;
+ }
+.body10{
+    background-color:ghostwhite;
+    width: 350px;
+    height: 200px;
+    
+    margin-left: 100px;
+}
+.body11{
+    background-color:ghostwhite;
+    width: 350px;
+    height: 200px;
+    
+    
+    margin-left: 100px;
+}
+.body12{
+    background-color:ghostwhite;
+    width: 350px;
+    height: 200px;
+    
+    
+    margin-left: 190px;
+}
+.body13{
+    background-color:ghostwhite;
+   width: 350px;
+   height: 200px;
+   
+   margin-left: 100px;
+}
+.body14{
+    background-color:ghostwhite;
+   width: 350px;
+   height: 200px;
+   
+   
+   margin-left: 100px;
+}
+.part6img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+.part7img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+.part8img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+.part9img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+.part10img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+.part11img{
+    margin-left: 140px;
+     margin-top: 40px;
+}
+#bluesadqahfont{
+ display: block;
+ margin-left: 100px;
+ margin-top: 10px;
+ font-size: 20px;
+ color:rgb(36, 59, 187); 
+ 
+}
+#bluewelfarefont{
+    display: block;
+    margin-left: 127px;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(36, 59, 187); 
+    
+}
+#bluemedicalfont{
+    display: block;
+    margin-left: 127px;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(36, 59, 187); 
+    
+}
+#bluedastarkhwanfont{
+    display: block;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(36, 59, 187); 
+    
+   }
+   #blueroplantfont{
+       display: block;
+       margin-left: 127px;
+       margin-top: 10px;
+       font-size: 20px;
+       color:rgb(36, 59, 187); 
+       
+   }
+   #blueeducationfont{
+       display: block;
+       margin-left: 127px;
+       margin-top: 10px;
+       font-size: 20px;
+       color:rgb(36, 59, 187); 
+       
+   }
+   .body16{
+       display: flex;
+       margin-top:60px;
+      
+       height: 90px;
+       width: 970px;
+
+   }
+   .body19{
+    display: flex;
+    margin-top:20px;
+    
+    height: 90px;
+    width: 970px;
+
+}
+   .body17{
+width: 300px;
+height: 70px;
+background-color:ghostwhite;
+margin-left: 200px;
+   }
+   .body18{
+    width: 300px;
+    height: 70px;
+    background-color:ghostwhite;
+    margin-left: 100px;
+   }
+   .body20{
+    width: 300px;
+    height: 70px;
+    background-color:ghostwhite;
+    margin-left: 200px;
+       }
+       .body21{
+        width: 300px;
+        height: 70px;
+        background-color:ghostwhite;
+        margin-left: 100px;
+       }
+   #missionfont{
+font-size: 20px;
+color:rgb(36, 59, 187); 
+
+margin-top: 50px;
+margin-left: 200px;
+   }
+   #upcomingfont{
+    font-size: 20px;
+    color:rgb(36, 59, 187); 
+    
+    
+    margin-left: 450px;
+   }
+   .img0{
+margin-left: 30px;
+margin-top: 20px;
+   }
+   .img1{
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 34px; 
+   }
+   .img2{
+    margin-left: 30px;
+    margin-top: 20px;
+       }
+       .img3{
+        margin-left: 30px;
+        margin-top: 20px;
+        height: 34px; 
+       }
+   .bluehepatitsfont{
+       margin-left: 30px;
+       color:rgb(36, 59, 187); 
+   }
+   .bluehousingfont{
+    margin-left: 30px;
+    color:rgb(36, 59, 187); 
+   }
+   .bluetharparkarfont{
+    margin-left: 30px;
+    color:rgb(36, 59, 187); 
+   }
+   .blueitfont{
+    margin-left: 30px;
+    color:rgb(36, 59, 187); 
+}
+.body15{
+    margin-top: 50px;
+}
+.body22{
+    position: relative;
+    display: inline-block;
+    width: 380px;
+    height: 300px;
+    margin-left: 1010px;
+    bottom: 240px;
+    
+}
+.body23{
+    
+}
+.marquee2{
+    width: 300px;
+    height: 300px;
+}
+.detailsfont{
+    color: blue;
+}
+.blueimagefont{
+    color: rgb(40, 120, 185);
+    font-size: 30px;
+}
+.greengalleryfont{
+    color: rgb(36, 187, 81);
+    font-size: 30px;
+}
+#minisaylaniimg{
+    display: block;
+}
+.body24{
+    width: 1018px;
+    height: 150px;
+    
+    margin: 0 auto;
+}
+#rashanimg{
+    width: 200px;
+}
+#foodimg{
+    width: 200px;
+}
+#molanaimg{
+    width: 200px;
+}
+#molana2img{
+    width: 200px;
+}
+.body25{
+    height: 350px;
+    background-color: rgb(39, 39, 39);
+    margin-top: 90px;
+    display: flex;
+}
+
+#whiteheadfont{
+position: relative;
+color: rgb(243, 242, 242);
+font-size: 14px;
+top:45px;
+margin-left: 80px;
+}
+ #whiteA-25font{
+position: relative;
+color: rgb(243, 242, 242);
+font-size: 14px;
+right: 80px;
+top: 60px;
+} 
+ #whiteuanfont{
+ position: relative;
+color: rgb(243, 242, 242);
+font-size: 14px;
+left: 95px;
+top: 76px;
+} 
+#imgA{
+position: relative;
+top: 100px;
+right: 400px;
+}
+#imgC{
+    position: relative;
+    top: 79px;
+    left: 120px;
+    }
+.body26{
+padding-top: 50px;
+    height: 300px;
+    width: 500px;
+   background-color: rgb(39, 39, 39);
+}
+#whiteooofont{
+    position: relative;
+color: rgb(243, 242, 242);
+font-size: 14px;
+left:124px;
+top: 76px;
+}
+#Arptimg{
+    position: relative;
+top: 110px;
+right:234px
+}
+#Arpttimg{
+    position: relative;
+    top: 144px;
+    right:403px
+}
+#Arptttimg{
+    position: relative;
+    top: 154px;
+    right:98px
+}
+#mailimg{
+    position: relative;
+    top: 190px;
+    right:292px 
+}
+#whiteCELLfont{
+    position: relative;
+color: rgb(243, 242, 242);
+font-size: 14px;
+right: 229px;
+top: 105px;
+}
+#whiteUSAfont{
+    position: relative;
+    color: rgb(243, 242, 242);
+    font-size: 14px;
+    left: 96px;
+    top: 115px;
+}
+#whiteUKfont{
+    position: relative;
+    color: rgb(243, 242, 242);
+    font-size: 14px;
+   right:92px;
+    top: 150px;
+}
+#whitemailfont{
+    position: relative;
+    color: rgb(243, 242, 242);
+    font-size: 14px;
+   left:100px;
+    top: 165px; 
+}
+
+.body27{
+    margin-left: 50px;
+    width: 1000px;
+    height: 348px;
+    background-color: rgb(39, 39, 39);
+
+}
+#whiteusefulfont{
+    position: relative;
+   left: 60px;
+    top: 54px;
+    color: white;
+    }
+    #whiteconnectfont{
+        position: relative;
+   left: 350px;
+    top: 54px;
+    color: white;
+    }
+    #imgD{
+        position: relative;
+        top: 104px;
+        left: 220px;
+    }
+    #imgE{
+        position: relative;
+        top: 104px;
+        left: 225px;
+    }
+    #imgF{
+        position: relative;
+        top: 104px;
+        left: 225px; 
+    }
+    #imgG{
+        position: relative;
+        top: 104px;
+        left: 225px; 
+    }
+    .body28{
+        background-color: rgb(31, 112, 189);
+        height: 50px;
+    }
+    #whitecopyrightfont{
+        position: relative;
+        top: 17px;
+        left: 300px;
+        font-size: 12px;
+        color: white;
+    }
+    #totop{
+        position: relative;
+        width:20px;
+        top: 20px;
+        left: 1350px;
+    }
